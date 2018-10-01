@@ -5,6 +5,8 @@ package lv.javaguru.lessons.l2;
  */
 public class Lesson2 {
 
-    //Placeholder
+    public static void main(String[] args) {
+        System.out.println("Welcome to the JavaGuru!");
+    }
 
 }
