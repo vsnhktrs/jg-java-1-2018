@@ -1,24 +1,24 @@
-package lv.javaguru.lessons.l3;
+package lv.javaguru.lessons.l3.p2.types.primitive;
 
 /**
  * @author Konstantins Buts on 09/10/2018.
  */
 public class PrimitiveTypes {
 
-    //Integer primitives
+    //Integer primitive
     byte iByte;
     short iShort;
     int iInt;
     long iLong;
 
-    //Float primitives
+    //Float primitive
     float iFloat;
     double iDouble;
 
-    //Symbolic primitives
+    //Symbolic primitive
     char iChar;
 
-    //Logical primitives
+    //Logical primitive
     boolean iBoolean;
 
     void printDefaultVariableValues() {

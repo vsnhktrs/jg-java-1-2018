@@ -1,4 +1,4 @@
-package lv.javaguru.lessons.l2;
+package lv.javaguru.lessons.l2.p2;
 
 /**
  * @author Konstantins Buts on 02/10/2018.
