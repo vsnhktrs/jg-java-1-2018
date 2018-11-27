@@ -18,6 +18,10 @@ public class HashSetDemo {
         cars.add("Mercedes");
         cars.add("Lada");
 
+        Set<String> set = new HashSet<>();
+        set.add("abc");
+        set.remove("abc");
+
         System.out.println(cars);
 
         cars.add("BMW");
